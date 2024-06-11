@@ -1,9 +1,9 @@
 ## Hello my new friend 👋
 我是*大男孩*，正在做监控研发，曾从事架构、运维、实施工作，喜欢折腾 Go / k8s / Prometheus / Serverless / 自动化，喜欢开源分享。
 
-**个人履历**
+**个人技术栈**
 
-* 语言：熟悉Python、了解go、php ；有框架开发 / 基础工具、高性能组件开发经验，实现过api、同步任务等框架
+* 语言：熟悉Python、了解go、php ；有django框架 / 基础工具、高性能组件开发经验，实现过api、同步任务等框架
 * 中间件： Nginx，Redis、Mariadb、RabbitMQ、SQLserver、influxdb、was；
 * CI/CD：jenkins、ansible、saltstack、github、SonarQube；
 * 接入层：Nginx, Haproxy、keepalived；

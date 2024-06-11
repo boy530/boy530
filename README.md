@@ -11,7 +11,8 @@
 * 虚拟化：熟悉vsphere的架构和原理，有部署实施经验；
 * 容器：Docker, Kubernetes、istio、etcd等主流容器技术，了解容器，镜像，网络，存储，持久化，监控，安全, 能对它们进行二次开发；
 * 微服务：consul、GRPC、服务熔断、服务降级、限流、服务注册与发现；
-  如果你的技术栈和我的类似，欢迎加我好友
+---
+如果你的技术栈和我的类似，欢迎加我好友
 <!--
 **boy530/boy530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

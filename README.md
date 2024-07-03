@@ -13,8 +13,8 @@ I am big smart boy. I am currently engaged in monitoring research and developmen
 * 容器：Docker, Kubernetes、istio、etcd等主流容器技术，了解容器，镜像，网络，存储，持久化，监控，安全；
 * 微服务：consul、GRPC、服务熔断、服务降级、限流、服务注册与发现；
 ---
-😄如果你的技术栈和我的类似，欢迎加我好友<br>
-😄If your technology stack is similar to mine, welcome to add me as a friend
+🌱 如果你的技术栈和我的类似，欢迎加我好友<br>
+🌱 If your technology stack is similar to mine, welcome to add me as a friend
 <!--
 **boy530/boy530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

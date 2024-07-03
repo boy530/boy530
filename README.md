@@ -2,8 +2,7 @@
 我是*大男孩*，正在做监控研发，曾从事架构、运维工作，喜欢折腾 Python / k8s / Prometheus / Serverless / 自动化，喜欢开源分享。<br>
 I am big smart boy. I am currently engaged in monitoring research and development. I have worked in architecture, operation and maintenance, and implementation. I like to tinker with Python/k8s/Prometheus/Serverless/automation and like open source sharing.
 <br><br>
-**个人技术栈**
-* 语言：熟悉Python、了解go、php ；有django框架 / 基础工具、高性能组件开发经验，实现过api、同步任务等框架
+**个人技术栈** * 语言：熟悉Python、了解go、php ；有django框架 / 基础工具、高性能组件开发经验，实现过api、同步任务等框架
 * 中间件： Nginx，Redis、Mariadb、RabbitMQ、SQLserver、influxdb、was；
 * CI/CD：jenkins、github、SonarQube、shell；
 * 配置管理: ansible、terraform

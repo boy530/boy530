@@ -1,5 +1,6 @@
 ## Hello my new friend 👋
-我是*大男孩*，正在做监控研发，曾从事架构、运维、实施工作，喜欢折腾 Go / k8s / Prometheus / Serverless / 自动化，喜欢开源分享。
+我是*大男孩*，正在做监控研发，曾从事架构、运维、实施工作，喜欢折腾 Python / k8s / Prometheus / Serverless / 自动化，喜欢开源分享。
+I am big smart boy. I am currently engaged in monitoring research and development. I have worked in architecture, operation and maintenance, and implementation. I like to tinker with Python/k8s/Prometheus/Serverless/automation and like open source sharing.
 
 **个人技术栈**
 
@@ -14,6 +15,7 @@
 * 微服务：consul、GRPC、服务熔断、服务降级、限流、服务注册与发现；
 ---
 如果你的技术栈和我的类似，欢迎加我好友
+If your technology stack is similar to mine, welcome to add me as a friend
 <!--
 **boy530/boy530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

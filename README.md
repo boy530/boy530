@@ -8,7 +8,7 @@ I am big smart boy. I am currently engaged in monitoring research and developmen
 * CI/CD：jenkins、github、SonarQube、shell；
 * 配置管理: ansible、terraform
 * 接入层：Nginx, Haproxy、keepalived；
-* 监控运维：Prometheus并为此项目贡献过代码，进行过二次开发和自研监控平台的架构设计，曾担任互联网大厂监控平台主负责人；
+* 监控运维：Prometheus并为此项目贡献过代码，进行过二次开发和自研监控平台的架构设计；
 * 虚拟化：熟悉vsphere的架构和原理，有部署实施经验；有aws,gcp云平台运维经验;
 * 容器：Docker, Kubernetes、istio、etcd等主流容器技术，了解容器，镜像，网络，存储，持久化，监控，安全；
 * 微服务：consul、GRPC、服务熔断、服务降级、限流、服务注册与发现；
